@@ -1,0 +1,9 @@
+product_name_path: "source_data/product_names.csv"
+period:
+  date_from: "2019-08-01"
+  date_to: "2019-08-31"
+kkt_category_filters:
+group_by:
+  receipt_date: False
+  region: False
+  channel: False
